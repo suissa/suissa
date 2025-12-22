@@ -7,12 +7,15 @@
 </p>
 
 
-- 🔭 I’m currently working ON Multi-Agent Deep Ensemble Reinforcement Distributed Learning Systems 
-- 🌱 I’m currently learning MARL/DLR
-- 👯 I’m looking to collaborate on TS/AI projects
-- 💬 Ask me about JS/TS/NoSQL
+- 💡 I’m currently creating Cogfulness AI Systems
+- 🧠 I’m currently developing Cogfulness and Cogfluiness Concepts
+- 👽 I’m looking to finish with Dark Patterns!
+- 💬 Ask me about JS/TS/NoSQL/AI
 - 📫 How to reach me: osuissinha@gmail.com
-- 😄 Pronouns: ele/dele
-- ⚡ Fun fact: tenho tatuado nos dedos LOVE CATS
+- ⚡ Fun fact: LOVE CATS
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=suissa)](https://github.com/ryo-ma/github-profile-trophy)
+<h2 align="center" style="color: #62d1ff; font-size: 40px; max-width: 800px; margin: 0 auto;">Transforming my way of thinking into AI cognitive systems to save people from AI-induced planned obsolescence.</h2>
+
+<p align="center">
+<img src="https://i.imgur.com/psqde80.png" />
+</p>
