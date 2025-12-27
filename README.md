@@ -1,6 +1,6 @@
 
 <p align="center">
-<img ="suissAI FullAgenticStack Cogfuldev" src="https://i.imgur.com/vRxhR1L.png" />
+<img ="suissAI FullAgenticStack Cogfuldev" src="https://i.imgur.com/cWwRuVf.png" />
 </p
   
 <h1 align="center" style="color: green; font-size: 40px;">Transforming my way of thinking into AI cognitive systems to save people from AI-induced planned obsolescence.</h1>
