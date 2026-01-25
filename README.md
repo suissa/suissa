@@ -3,7 +3,7 @@
   <h1><a href="https://cogfulcoding.suissai.dev" target="_blank">Cogful Coding - O Vibe Coding consciente</a></h1>
 </p>
 <p align="center">
-<img ="suissAI FullAgenticStack Cogfuldev" src="https://i.imgur.com/K0VtemC.png" />
+<img ="suissAI FullAgenticStack Cogfuldev" src="https://i.imgur.com/ReExLd3.png" />
 </p
 
 <h1 align="center" style="color: green; font-size: 40px;">FullAgenticStack dev</h1>
