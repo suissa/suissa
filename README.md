@@ -1,6 +1,6 @@
 
 <p align="center">
-  <h1><a href="https://cogfulcoding.suissai.dev" target="_blank">Cogful Coding - A Evolução do Vibe Coding</a></h1>
+  <h1><a href="https://cogfulcoding.suissai.dev" target="_blank">Cogful Coding - O Vibe Coding consciente</a></h1>
 </p>
 <p align="center">
 <img ="suissAI FullAgenticStack Cogfuldev" src="https://i.imgur.com/7TTX87b.png" />
