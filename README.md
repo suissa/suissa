@@ -24,3 +24,4 @@
 - 📫 How to reach me: suissaidev@gmail.com
 - ⚗️[purecore.codes](https://github.com/purecore-codes): Creating open source projects in TypeScript with 0 dependencies
 - 🐱 LOVE CATS
+- [suissai.dev](https://suissai.dev/)
