@@ -53,7 +53,3 @@ This is about learning how to:
 - ⚗️ [purecore.codes](https://github.com/purecore-codes)
 - 🌐 [suissai.dev](https://suissai.dev/)
 - 🐱 Love cats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suissa&theme=radical&show_icons=true&hide_border=true" />
-</p>
