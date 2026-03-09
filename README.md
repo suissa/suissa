@@ -14,11 +14,6 @@
   Start thinking like a founder who builds real systems.
 </p>
 
-<p align="center">
-  <a href="https://from.vibe2founder.digital" target="_blank">
-    <img width="1536" height="1024" alt="From Vibe to Founder" src="https://github.com/user-attachments/assets/9a64f232-2747-4866-bb34-91488f995b95" />
-  </a>
-</p>
 
 ## What is this?
 
