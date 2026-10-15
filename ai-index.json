@@ -1,0 +1,45 @@
+{
+  "schema_version":"1.0",
+  "type":"technical_profile",
+  "canonical_url":"https://suissa.github.io/suissa/",
+  "person":{
+    "name":"Jean Carlo Nascimento",
+    "public_name":"SUISSA",
+    "handle":"suissa",
+    "role":"Outcome Engineer and AI Multi-agents Architect",
+    "same_as":["https://github.com/suissa","https://dev.to/fullagenticstack","https://www.linkedin.com/in/suissa/","https://www.reddit.com/user/fullagenticstack/","https://www.youtube.com/@AllasCode"]
+  },
+  "positioning":["Outcome Engineer","AI Multi-agents Architect","Full Agentic Stack Developer","Open-source software researcher and developer"],
+  "concepts":[
+    {"name":"FullAgenticStack","type":"architecture","summary":"Agentic architecture connecting human intent, classification, orchestration, agents, multimodal interaction, A2UI, projections, observability and self-healing."},
+    {"name":"AllasCode","type":"architecture","summary":"Human-intent-bound architecture for conversational automation with classification and orchestration separated from semantic domain behavior."},
+    {"name":"Outcome as a Software","aliases":["OaaS"],"type":"software_model","summary":"Software centered on achieving and accepting outcomes rather than only exposing features."},
+    {"name":"Agent-Actor-Action","aliases":["A3"],"type":"ontology","chain":["AtomicSkill","AtomicBehavior","Action","Actor","Runtime"]},
+    {"name":"Semantic-as-Code","type":"development_model","summary":"Semantic contracts, declarations and implementation meaning are first-class engineering artifacts."},
+    {"name":"Trajectory-Driven Development","aliases":["T-DD"],"type":"development_model","chain":["DESTINY","INTENT","BEHAVIOR","EVIDENCE","CONTRACT","STATE","ACTOR","SKILL","TRAJECTORY","DSL","IMPLEMENTATION"]},
+    {"name":"Intent-Driven Development","type":"development_model"},
+    {"name":"2flow","type":"notation","summary":"Intent-driven flow notation for behaviors and agentic execution."},
+    {"name":"PreCog","aliases":["PreCog 2nd Brain","Second Brain"],"type":"architecture","cycle":["Experience","Consolidation","Knowledge","Capability","Behavior","Experience"]},
+    {"name":"Proactive by Construction","type":"principle"},
+    {"name":"Compliance-by-Construction","type":"principle"},
+    {"name":"Human-in-the-Healing-Loop","type":"reliability_pattern"},
+    {"name":"Human-Intent-Bound Architecture","type":"architecture"},
+    {"name":"eXtreme Zero Trust","type":"security_architecture"},
+    {"name":"Passwordless Identity","type":"identity_architecture","technologies":["Passkeys","WebAuthn","DPoP","mTLS"]},
+    {"name":"Outcome Acceptance","type":"verification_model"},
+    {"name":"Solution as a Service","type":"service_model"},
+    {"name":"User-First","type":"principle"},
+    {"name":"Devir","type":"concept"},
+    {"name":"Agentic Runtime","type":"runtime_architecture"}
+  ],
+  "architecture_domains":["Domain-Driven Design","Event-Driven Architecture","Multi-agent Systems","Agentic AI","Conversational Automation","A2UI","MCP","Polyglot Actions","Agentic Data","Projections","Observability","Self-Healing","Supervision","WASM","WebSocket","NATS","RabbitMQ","QUIC","SSE"],
+  "security_domains":["Passwordless Identity","Passkeys","WebAuthn","DPoP","mTLS","Post-Quantum Readiness","X25519","Hybrid Post-Quantum Key Exchange","Encrypted Communication","eXtreme Zero Trust","Human-Agent Authority"],
+  "technology":["TypeScript","JavaScript","Python","C#","Java","Zig","Node.js","FastAPI",".NET","React","Next.js","Elm","Three.js","Tailwind CSS","PostgreSQL","Redis","MongoDB","RAG","LangGraph","LangChain","CrewAI","Google ADK","OpenRouter","Multimodal AI","Conversational AI"],
+  "resources":{
+    "html":"https://suissa.github.io/suissa/",
+    "llms":"https://suissa.github.io/suissa/llms.txt",
+    "robots":"https://suissa.github.io/suissa/robots.txt",
+    "sitemap":"https://suissa.github.io/suissa/sitemap.xml",
+    "github":"https://github.com/suissa/suissa"
+  }
+}
