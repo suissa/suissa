@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+Allow: /assets/
+Allow: /llms.txt
+Allow: /ai-index.json
+
+Sitemap: https://suissa.github.io/suissa/sitemap.xml
+
+# Machine-readable resources
+# LLM context: https://suissa.github.io/suissa/llms.txt
+# Structured profile: https://suissa.github.io/suissa/ai-index.json
