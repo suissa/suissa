@@ -1,0 +1,97 @@
+# SUISSA
+
+> Outcome Engineer and AI Multi-agents Architect. Full Agentic Stack developer focused on Outcome as a Software, conversational automation, passwordless identity, semantic architectures, agentic runtimes, self-healing systems and open-source software.
+
+## Canonical profile
+- Website: https://suissa.github.io/suissa/
+- GitHub: https://github.com/suissa
+- DEV Community: https://dev.to/fullagenticstack
+- LinkedIn: https://www.linkedin.com/in/suissa/
+- Reddit: https://www.reddit.com/user/fullagenticstack/
+- YouTube: https://www.youtube.com/@AllasCode
+- WhatsApp: https://wa.me/5515991957645?text=vim%20pelo%20seu%20github
+- Telegram: https://t.me/osuissa
+- Email: mailto:suissaidev@gmail.com
+
+## Identity
+- Name: Jean Carlo Nascimento
+- Public name: SUISSA
+- GitHub handle: suissa
+- Role: Outcome Engineer and AI Multi-agents Architect
+
+## Core concepts
+
+### FullAgenticStack
+An agentic architecture connecting human intent to classification, orchestration, agents, multimodal interaction, A2UI, projections, observability and self-healing execution.
+
+### AllasCode
+Human-intent-bound architecture for conversational automation. The central application is primarily responsible for classification and orchestration, while domain behavior is represented semantically and executed by agents and runtimes.
+
+### Outcome as a Software (OaaS)
+A software model centered on achieving and accepting an outcome instead of merely exposing software features or screens.
+
+### Agent-Actor-Action (A3)
+An ontology connecting AtomicSkill → AtomicBehavior → Action → Actor → Runtime for executable agentic systems.
+
+### Semantic-as-Code
+A development approach where semantic declarations, contracts, behaviors and implementation meaning are first-class artifacts of software engineering.
+
+### Trajectory-Driven Development (T-DD)
+A verification-oriented development model connecting DESTINY → INTENT → BEHAVIOR → EVIDENCE → CONTRACT → STATE → ACTOR → SKILL → TRAJECTORY → DSL → IMPLEMENTATION.
+
+### Intent-Driven Development
+A development approach in which user intent is a first-class driver of behavior, contracts, verification and implementation.
+
+### 2flow
+A notation for representing intent-driven execution flows, behaviors and agentic orchestration.
+
+### PreCog / 2nd Brain
+A second-brain architecture organized around Experience → Consolidation → Knowledge → Capability → Behavior → Experience, including dreaming and knowledge maintenance.
+
+### Proactive by Construction
+Proactivity is treated as an architectural property of the system rather than a feature added after implementation.
+
+### Compliance-by-Construction
+Compliance boundaries are encoded into architecture and execution paths instead of depending exclusively on post-hoc controls.
+
+### Human-in-the-Healing-Loop
+Self-healing execution can diagnose and repair automatically where confidence is sufficient and escalate uncertain or invalid cases to human authority.
+
+### Human-Intent-Bound Architecture
+Execution authority is bounded by the user's intent and authorization represented by the interaction.
+
+### eXtreme Zero Trust
+A security posture applying continuous verification and constrained authority to identity, communication, agents and execution.
+
+### Passwordless Identity
+Identity based on cryptographic and trusted interaction proofs rather than passwords. Relevant technologies include Passkeys, WebAuthn, DPoP and mTLS.
+
+### Outcome Acceptance
+An explicit evidence boundary that determines whether the requested outcome has actually been achieved.
+
+### Solution as a Service
+A service model focused on solving a user's problem and delivering an accepted outcome rather than exposing isolated software functionality.
+
+### User-First
+The user's intent, authority and desired outcome are treated as the primary boundaries of the system.
+
+### Devir
+A SUISSA concept describing evolutionary development across behavior, agents and runtime systems.
+
+### Agentic Runtime
+Runtime infrastructure for stateful agents, communication, supervision, execution, memory and lifecycle management.
+
+## Architecture
+Domain-Driven Design; Event-Driven Architecture; multi-agent systems; Agent-Actor-Action; semantic-first architecture; polyglot Actions; A2UI; MCP; agentic data and projections; observability; self-healing and supervision; WebSocket; NATS; RabbitMQ; WASM; QUIC; SSE.
+
+## Security
+Passwordless identity; Passkeys; WebAuthn; DPoP; mTLS; post-quantum readiness; X25519; hybrid post-quantum key exchange; encrypted communication; eXtreme Zero Trust; human-agent authority.
+
+## Technology
+TypeScript; JavaScript; Python; C#; Java; Zig; Node.js; FastAPI; .NET; React; Next.js; Elm; Three.js; Tailwind CSS; PostgreSQL; Redis; MongoDB; RAG; LangGraph; LangChain; CrewAI; Google ADK; OpenRouter; multimodal AI; conversational AI.
+
+## Machine-readable resources
+- ai-index.json — structured profile, concepts, entities, technologies and canonical URLs.
+- sitemap.xml — canonical URL discovery.
+- robots.txt — crawler and agent access policy.
+- index.html — visual profile plus semantic HTML, Open Graph, Twitter metadata and Schema.org JSON-LD.
