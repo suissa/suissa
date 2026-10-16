@@ -35,14 +35,22 @@
   <meta name="twitter:image:alt" content="SUISSA — Outcome Engineer and AI Multi-agents Architect">
 
   <style>
+    *,*::before,*::after{box-sizing:border-box}
     html,body{margin:0;padding:0;width:100%;min-height:100%;background:#05070a;color:#fff}
     body{overflow-x:hidden}
-    main{display:block;width:100%;margin:0;padding:0;font-size:0;line-height:0}
-    figure{display:block;margin:0;padding:0;font-size:0;line-height:0}
+    main{display:block;width:100%;max-width:100%;margin:0;padding:0;font-size:0;line-height:0;overflow:hidden}
+    figure{display:block;width:100%;max-width:100%;margin:0;padding:0;font-size:0;line-height:0;overflow:hidden}
     a{display:block;margin:0;padding:0;border:0;font-size:0;line-height:0;text-decoration:none}
-    img{display:block;width:100%;height:auto;margin:0;padding:0;border:0;vertical-align:top}
+    img{display:block;width:100%;max-width:100%;height:auto;margin:0;padding:0;border:0;vertical-align:top}
+    nav{display:flex;width:100%;max-width:100%;flex-wrap:wrap;margin:0;padding:0;overflow:hidden}
+    nav a{flex:0 0 25%;max-width:25%;min-width:0}
+    nav img{width:100%;max-width:100%;height:auto}
     .semantic-content{position:absolute;width:1px;height:1px;padding:0;margin:-1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap;border:0}
     .semantic-content:focus{position:static;width:auto;height:auto;margin:0;padding:1rem;overflow:visible;clip:auto;white-space:normal}
+
+    @media (max-width:600px){
+      nav a{flex-basis:50%;max-width:50%}
+    }
   </style>
 
   <script type="application/ld+json">
@@ -125,7 +133,7 @@
     <figure>
       <img src="assets/links.svg" width="880" height="120" loading="eager" decoding="sync" alt="SUISSA links and contact channels">
     </figure>
-    <nav aria-label="SUISSA social and professional links" style="font-size:0;line-height:0;margin:0;padding:0;display:flex;width:100%;flex-wrap:wrap">
+    <nav aria-label="SUISSA social and professional links">
       <a href="https://github.com/suissa" rel="me author" aria-label="SUISSA on GitHub"><img src="assets/links/github.svg" width="25%" alt="GitHub" loading="eager"></a><a href="https://wa.me/5515991957645?text=vim%20pelo%20seu%20github" rel="me" aria-label="SUISSA on WhatsApp"><img src="assets/links/whatsapp.svg" width="25%" alt="WhatsApp" loading="eager"></a><a href="https://t.me/osuissa" rel="me" aria-label="SUISSA on Telegram"><img src="assets/links/telegram.svg" width="25%" alt="Telegram" loading="eager"></a><a href="mailto:suissaidev@gmail.com" rel="me" aria-label="Email SUISSA"><img src="assets/links/gmail.svg" width="25%" alt="Email" loading="eager"></a><a href="https://dev.to/fullagenticstack" rel="me" aria-label="SUISSA on DEV Community"><img src="assets/links/dev.svg" width="25%" alt="DEV Community" loading="lazy"></a><a href="https://www.linkedin.com/in/suissa/" rel="me" aria-label="SUISSA on LinkedIn"><img src="assets/links/linkedin.svg" width="25%" alt="LinkedIn" loading="lazy"></a><a href="https://www.reddit.com/user/fullagenticstack/" rel="me" aria-label="SUISSA on Reddit"><img src="assets/links/reddit.svg" width="25%" alt="Reddit" loading="lazy"></a><a href="https://www.youtube.com/@AllasCode" rel="me" aria-label="SUISSA on YouTube"><img src="assets/links/youtube.svg" width="25%" alt="YouTube" loading="lazy"></a>
     </nav>
     <figure>
@@ -150,26 +158,13 @@
       <dt>Agent-Actor-Action (A3)</dt><dd>An ontology organized around AtomicSkill, AtomicBehavior, Action, Actor and Runtime.</dd>
       <dt>Semantic-as-Code</dt><dd>Semantic contracts, declarations and implementation meaning are first-class artifacts of software development.</dd>
       <dt>Trajectory-Driven Development (T-DD)</dt><dd>A verification-oriented chain: DESTINY → INTENT → BEHAVIOR → EVIDENCE → CONTRACT → STATE → ACTOR → SKILL → TRAJECTORY → DSL → IMPLEMENTATION.</dd>
-      <dt>2flow</dt><dd>A notation for representing intent-driven flows, behaviors and agentic execution.</dd>
-      <dt>PreCog / 2nd Brain</dt><dd>A second-brain model based on Experience → Consolidation → Knowledge → Capability → Behavior → Experience, including dreaming and knowledge maintenance.</dd>
-      <dt>Proactive by Construction</dt><dd>Proactivity is encoded into architecture and behavior rather than added as an isolated feature.</dd>
-      <dt>Compliance-by-Construction</dt><dd>Compliance constraints and boundaries are enforced by architectural design and execution paths.</dd>
-      <dt>Human-in-the-Healing-Loop</dt><dd>Self-healing systems automatically diagnose and repair where confidence is sufficient and escalate uncertain cases to human authority.</dd>
-      <dt>Human-Intent-Bound Architecture</dt><dd>System authority and execution are bounded by the user's intent and authorization.</dd>
-      <dt>eXtreme Zero Trust</dt><dd>Continuous verification and constrained authority across identity, communication, agents and execution.</dd>
-      <dt>Passwordless Identity</dt><dd>Identity based on cryptographic proofs and trusted interaction rather than passwords.</dd>
-      <dt>Outcome Acceptance</dt><dd>A contract defining the evidence required to accept that an intended outcome has been achieved.</dd>
-      <dt>Solution as a Service</dt><dd>A service model centered on solving a problem and producing an accepted outcome.</dd>
-      <dt>User-First</dt><dd>The user's intent, authority and desired outcome are the primary system boundaries.</dd>
-      <dt>Devir</dt><dd>A SUISSA concept describing evolutionary development across behavior, agents and runtime systems.</dd>
+      <dt>Intent-Driven Development</dt><dd>A development approach that makes user intent a first-class driver for behavior, contracts and implementation.</dd>
+      <dt>Proactive by Construction</dt><dd>Proactive behavior is designed as an architectural property rather than an afterthought.</dd>
+      <dt>Compliance-by-Construction</dt><dd>Compliance boundaries and constraints are encoded into architecture and execution paths.</dd>
+      <dt>Human-in-the-Healing-Loop</dt><dd>Automated diagnosis and correction can escalate uncertain or invalid cases to human authority.</dd>
+      <dt>Passwordless Identity</dt><dd>Identity flows based on cryptographic and possession or interaction proofs rather than passwords.</dd>
       <dt>Agentic Runtime</dt><dd>Runtime infrastructure for stateful agents, communication, supervision, execution, memory and lifecycle management.</dd>
     </dl>
-    <h2>Architecture and engineering</h2>
-    <p>Relevant architectural areas include Domain-Driven Design, Event-Driven Architecture, multi-agent systems, Agent-Actor-Action, semantic-first architecture, polyglot actions, MCP, A2UI, WebSocket, NATS, RabbitMQ, WASM, QUIC, SSE, observability, projections, self-healing and supervision.</p>
-    <h2>Identity and security</h2>
-    <p>Relevant security areas include passwordless identity, Passkeys, WebAuthn, DPoP, mTLS, post-quantum readiness, X25519, hybrid post-quantum key exchange, encrypted communication, eXtreme Zero Trust and human-agent authority.</p>
-    <h2>Technology</h2>
-    <p>Languages and technologies include TypeScript, JavaScript, Python, C#, Java, Zig, Node.js, FastAPI, .NET, React, Next.js, Elm, Three.js, Tailwind CSS, PostgreSQL, Redis, MongoDB, RAG, agentic data, LangGraph, LangChain, CrewAI, Google ADK, OpenRouter, multimodal AI and conversational AI.</p>
   </section>
 </body>
 </html>
